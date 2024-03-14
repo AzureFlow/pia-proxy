@@ -1,0 +1,14 @@
+{
+	"name": "pia_proxy",
+	"version": "1.0.0",
+	"description": "",
+	"main": "src/pia.js",
+	"type": "module",
+	"keywords": [],
+	"author": "AzureFlow",
+	"license": "MIT",
+	"dependencies": {
+		"https-proxy-agent": "^7.0.4",
+		"node-fetch": "^3.3.2"
+	}
+}
